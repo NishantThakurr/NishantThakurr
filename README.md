@@ -1,5 +1,4 @@
 - Hi, I’m @NishantThakurr
-- I’m interested in coding as a beginner.
 - I’m currently learning Data Science and M.L.
 - I'm looking to collaborate on various Data Science Projects.
 - You can reach me on nishantthakur522000@gmail.com
