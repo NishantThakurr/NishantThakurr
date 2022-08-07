@@ -1,7 +1,7 @@
 - Hi, I’m @NishantThakurr
 - I’m currently learning Data Science.
 - I'm looking to collaborate on various Data Science Projects.
-- You can reach me on nishantthakur522000@gmail.com and nishantthakurwork@gmail.com
+- You can reach me on nishantthakurwork@gmail.com
 
 <!---
 NishantThakurr/NishantThakurr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
