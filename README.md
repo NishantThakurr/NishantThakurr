@@ -1,5 +1,5 @@
 - Hi, I’m @NishantThakurr
-- I’m currently a working data analyst.
+- I am an analytics professional with more than 2 years of experience and also enrolled in Data Science mentorship program by Campus X
 - You can reach me on nishantthakurwork@gmail.com
 
 <!---
