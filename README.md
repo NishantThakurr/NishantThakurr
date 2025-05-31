@@ -1,5 +1,5 @@
 - Hi, I’m @NishantThakurr
-- I am an analytics professional with more than 2 years of experience and also enrolled in Data Science mentorship program by Campus X
+- I am an analytics professional with more than 3 years of experience.
 - You can reach me on nishantthakurwork@gmail.com
 
 <!---
